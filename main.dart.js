@@ -46019,7 +46019,7 @@ E.aK(j,k,!1)
 k=A.dw(new K.aT(j))
 k=k.gdf(k).a.c.h(0,"uid")}else k=$.azW.f
 s=7
-return P.n(i.bs(0,k).bc(0,"openings").bs(0,m.db).bc(0,A.dI("MMMM",null).ds(new P.ba(Date.now(),!1))).dI(0),$async$uM)
+return P.n(i.bs(0,k).bc(0,"openings").bs(0,m.db).bc(0,A.dI("MMMM, yyyy",null).ds(new P.ba(Date.now(),!1))).dI(0),$async$uM)
 case 7:l=b
 m.go=J.oV(l)
 p=2
